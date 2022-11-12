@@ -27,16 +27,30 @@ Para criar uma conta na AWS basta ter um email válido e um cartão de crédito.
 [Clique para criar sua conta na AWS](https://portal.aws.amazon.com/billing/signup?refid=c623d581-46f6-43a2-b227-cabbee9cd673&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation&language=pt_br#/start/email).
 
 ### Entendendo sobre os serviços da AWS: S3, Glue, Athena e QuickSight
+
 **Amazon S3**
 
 O Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e performance. 
 
 Pode ser utilizado para armazenar e proteger qualquer volume de dados para uma variedade de casos de uso, como data lakes, sites, aplicações móveis, backup e restauração, arquivamento, aplicações corporativas, dispositivos IoT e análises de big data. 
 
+**Amazon Glue**
+ 
+O AWS Glue é um serviço de integração de dados com tecnologia sem servidor que facilita aos usuários de análise a descoberta, preparação, transferência e integração de dados de várias fontes. Pode ser usado para análise, machine learning e desenvolvimento de aplicações. 
 
-- Amazon Glue
-- Amazon Athena
-- Amazon QuickSight
+Possui ferramentas de produtividade e operações de dados para criação, execução de trabalhos e implementação de fluxos de trabalho de negócios.
+
+**Amazon Athena**
+
+O Amazon Athena é um serviço de consultas interativas que facilita a análise de dados diretamente no Amazon S3 usando SQL padrão. Com algumas ações no AWS Management Console, você pode direcionar o Athena para os dados armazenados no Amazon S3 e começar a usar o SQL padrão para executar consultas.
+
+Como o Athena não utiliza servidor, não há infraestrutura para configurar ou gerenciar, e você paga apenas pelas consultas executadas. 
+
+É escalado automaticamente, executando consultas em paralelo, o que acelera os resultados mesmo em conjuntos de dados grandes e consultas complexas.
+
+**Amazon QuickSight**
+
+Amazon QuickSight é um serviço de business intelligence (BI) em escala de nuvem e se conecta aos seus dados na nuvem e combina dados de muitas fontes diferentes. Em um único painel de dados é possível incluir dados da AWS, dados de terceiros, big data, dados de planilhas, dados SaaS, dados B2B e outros.
 
 ### Explorando Dados Demográficos do Brasil
 
