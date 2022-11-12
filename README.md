@@ -2,7 +2,7 @@
 Explorando Dados Demográficos na AWS utilizando os serviços de Big data: Athena, QuickSight, Glue e S3.
 
 ### Sumario
-1. [Introdução a AWS](https://github.com/WANGOMES/big-data-with-aws/edit/main/README.md#introdu%C3%A7%C3%A3o-a-aws);
+1. [Introdução a AWS](https://github.com/WANGOMES/big-data-with-aws#introdu%C3%A7%C3%A3o-a-aws);
 2. [Criação de Conta na Amazon](https://github.com/WANGOMES/big-data-with-aws/edit/main/README.md#cria%C3%A7%C3%A3o-de-conta-na-amazon);
 2. [Entendendo sobre os serviços da AWS: S3, Glue, Athena e QuickSight](https://github.com/WANGOMES/big-data-with-aws/edit/main/README.md#entendendo-sobre-os-servi%C3%A7os-da-aws-s3-glue-athena-e-quicksight);
 3. [Explorando dados demográficos do Brasil - passo a passo](https://github.com/WANGOMES/big-data-with-aws/edit/main/README.md#explorando-dados-demogr%C3%A1ficos-do-brasil).
