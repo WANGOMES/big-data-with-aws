@@ -27,7 +27,13 @@ Para criar uma conta na AWS basta ter um email válido e um cartão de crédito.
 [Clique para criar sua conta na AWS](https://portal.aws.amazon.com/billing/signup?refid=c623d581-46f6-43a2-b227-cabbee9cd673&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation&language=pt_br#/start/email).
 
 ### Entendendo sobre os serviços da AWS: S3, Glue, Athena e QuickSight
-- Amazon S3
+**Amazon S3**
+
+O Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e performance. 
+
+Pode ser utilizado para armazenar e proteger qualquer volume de dados para uma variedade de casos de uso, como data lakes, sites, aplicações móveis, backup e restauração, arquivamento, aplicações corporativas, dispositivos IoT e análises de big data. 
+
+
 - Amazon Glue
 - Amazon Athena
 - Amazon QuickSight
