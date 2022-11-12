@@ -8,8 +8,14 @@ Explorando Dados Demográficos na AWS utilizando os serviços de Big data: Athen
 3. [Explorando dados demográficos do Brasil - passo a passo](https://github.com/WANGOMES/big-data-with-aws#explorando-dados-demogr%C3%A1ficos-do-brasil).
 
 ### Introdução a AWS
+**AWS - Amazon Web Services** - Provedor de soluções computacionais em núvem e sob demanda. Na AWS    encontramos serviços de Computação em núvem (EC2, AWS Lambda), de Banco de Dados (RDS, DynamoDB, Redshift), para Plataforma Móvel (Amazon API Gateway), para IoT, Machine Learning (Amazon SageMaker), Armazenamento( amazon S3), de Análise de Dados (Athena, Kinesis), Ferramentas de Desenvolvedor, Conteineres, Games, Robótica e muito mais.
+
+![Data Analytics Services AWS](https://repository-images.githubusercontent.com/119132172/34a4c900-9677-11e9-8684-70f8049d35ea "Data Analytics Services AWS")
 
 ### Criação de Conta na Amazon
+
+
+![Criando uma Conta Gratuita na AWS - imagem](http://dfcumz7fkmzfb.cloudfront.net/wp-content/uploads/2018/11/01100444/AWS_Console_-_Signup.png "Criando uma Conta Gratuita na AWS")
 
 ### Entendendo sobre os serviços da AWS: S3, Glue, Athena e QuickSight
 - Amazon S3
@@ -59,4 +65,5 @@ Explorando Dados Demográficos na AWS utilizando os serviços de Big data: Athen
 
 ### Eliminar recursos
  - Exluir os elementos criados
-
+### Créditos
+Material do Prof. [Cassiano Peres (Analista e Desenvolvedor de Sistemas e Instrutor na DIO)](https://github.com/cassianobrexbit)
