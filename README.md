@@ -10,12 +10,21 @@ Explorando Dados Demográficos na AWS utilizando os serviços de Big data: Athen
 ### Introdução a AWS
 **AWS - Amazon Web Services** - Provedor de soluções computacionais em núvem e sob demanda. Na AWS    encontramos serviços de Computação em núvem (EC2, AWS Lambda), de Banco de Dados (RDS, DynamoDB, Redshift), para Plataforma Móvel (Amazon API Gateway), para IoT, Machine Learning (Amazon SageMaker), Armazenamento( amazon S3), de Análise de Dados (Athena, Kinesis), Ferramentas de Desenvolvedor, Conteineres, Games, Robótica e muito mais.
 
-![Data Analytics Services AWS](https://repository-images.githubusercontent.com/119132172/34a4c900-9677-11e9-8684-70f8049d35ea "Data Analytics Services AWS")
+![Data Analytics Services AWS](https://user-images.githubusercontent.com/40408615/201495310-eacda71f-8997-44cf-94d3-f3e4fcc1d57b.jpeg "Data Analytics Services AWS")
 
-### Criação de Conta na Amazon
+### Criação de Conta na Amazon Web Services - AWS
 
+![Criando uma Conta Gratuita na AWS - imagem](https://user-images.githubusercontent.com/40408615/201495370-a020780a-c64e-4c2a-94ca-6a812d522d4c.jpeg "Criando uma Conta Gratuita na AWS")
 
-![Criando uma Conta Gratuita na AWS - imagem](http://dfcumz7fkmzfb.cloudfront.net/wp-content/uploads/2018/11/01100444/AWS_Console_-_Signup.png "Criando uma Conta Gratuita na AWS")
+Para criar uma conta na AWS basta ter um email válido e um cartão de crédito. A conta de nível gratuito possui os seguintes serviços:
+ - Amazon EC2 - 750hs/mês de computação em núvem;
+ - Amazon S3 - 5GB de armazenamento de documentos (20.000 GETs e 2.000 PUTs de solicitações);
+ - Amazon DynamoDB - 25GB de armazenamento;
+ - Amazon SageMaker - 2 meses de Machine Learning;
+ - Amazon redshift - 2 meses de Data Warehousing;
+ - AWS Lambda - 1 Milhão/mẽs de solicitações, entre outros.
+
+[Clique para criar sua conta na AWS](https://portal.aws.amazon.com/billing/signup?refid=c623d581-46f6-43a2-b227-cabbee9cd673&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation&language=pt_br#/start/email).
 
 ### Entendendo sobre os serviços da AWS: S3, Glue, Athena e QuickSight
 - Amazon S3
@@ -26,6 +35,7 @@ Explorando Dados Demográficos na AWS utilizando os serviços de Big data: Athen
 ### Explorando Dados Demográficos do Brasil
 
 ### Criar bucket no Amazon S3
+
 
 - Amazon S3 Console -> Buckets -> Create bucket -> Bucket name [nome_do bucket] - Create bucket
 - Create folder (Criar uma pasta chamada ```/output``` e outra com o nome do seu conjunto de dados. Este nome irá definir o nome da tabela criada no Glue)
